@@ -4,11 +4,11 @@ from configs import Config
 
 
 async def send_post_views_request(bot: Client, link: str, quantity: int = Config.Defaults.QUANTITY):
-    api_url = "https://n1panel.com/api/v2"
+    api_url = "https://cheappanel.com/api/v2"
     payload = dict(
         key=Config.SMM_PANEL_API_KEY,
         action="add",
-        service=2598,
+        service=311,
         link=link,
         quantity=quantity
     )
