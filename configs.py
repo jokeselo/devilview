@@ -3,7 +3,7 @@
 class Config:
     TG_API_ID = 28123504
     TG_API_HASH = "266272106c7fb627c1753f776e15e498"
-    TG_BOT_TOKEN = "1932680556:AAGatbrPIFEfrRooRawLXsEhDbcf3khmw_o"
+    TG_BOT_TOKEN = "6201157930:AAEL_BB_yvmMEnJuM6Jj2Ww0UaRjtmwHFY8"
     ADMIN_IDS = ["Nmfajis"]
     DUMP_CHANNEL_ID = -1001940823180
     MONGO_DB_ACCESS_URI = "mongodb+srv://mhdfajisnm:yG2Eihi03ytZnKRO@blow100.lpj5xox.mongodb.net/?retryWrites=true&w=majority"
